@@ -1,0 +1,9 @@
+Nouvelle version des étiquettes sgh 
+
+Developpement : Vincent ISEN  & Thomas MELIN
+Langage : PHP 5.3
+Framework : Symphony
+Base de données : PostGresSql
+HTML5.0
+
+
